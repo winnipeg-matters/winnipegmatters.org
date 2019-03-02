@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Winnipeg Matters"
+title:  "Welcome to Winnipeg Matters and join our mailing list!"
 date:   2019-03-02 12:11:51 -0600
 categories: news
 ---
