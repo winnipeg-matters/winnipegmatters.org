@@ -11,4 +11,4 @@ Winnipeg Matters is a evidence based group. We love to hear dissenting opinions 
 
 We provide articles and commentary that have its sources backed up. We do original research and advocacy based on that research.
 
-Interested in following along? Subscribe to [our mailing list](http://eepurl.com/gjcSsb).
+Interested in following along? [Join our mailing list](https://eepurl.com/gjcSsb).
