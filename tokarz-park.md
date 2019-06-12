@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tokarz Park Project
+title: The Tokarz Park Project Vision
 ---
 
-# The Tokarz Park Project Vision
+Below is the work-in-progress ideas behind the Tokarz Park Project, a neighborhood redevelopment vision encompassing Templeton Ave and Tokarz Park to create a vibrant, small-town look and feel neighborhood.
 
 # Political Process and Timeline
 
