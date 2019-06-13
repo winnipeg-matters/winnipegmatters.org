@@ -10,10 +10,10 @@ We are releasing an email subscription service to be told about what your counci
 
 ## Details
 
-The City of Winnipeg (CoW) provides a website that hosts public data from CoW departments. Examples of data provided on their Open Data Portal (ODP):
+The City of Winnipeg (CoW) provides a website that hosts public data from CoW departments. Examples of data provided on their [Open Data Portal (ODP)](https://data.winnipeg.ca):
 
 * Raw property tax data for all public and private properties in Winnipeg such as the assessed value, square footage, amenities such as a finished basement or a pool, etc.
-* Councillor and mayoral community expenses (correct this with the proper name)
+* Councillor and mayoral community expenses
 * Tree data for trees growing on CoW property
 * Mosquito trap counts and locations
 * [And more!](https://data.winnipeg.ca)
