@@ -6,7 +6,7 @@ permalink: /city-of-winnipeg-councillor-expenses/
 
 Councillor expenses! Your City of Winnipeg (CoW) councillor gets $1,XXX per year to spend on their community as they see fit.
 
-We are releasing an email subscription service to be told about what your councillors expense. [Subscribe here]() to be told when we release this service this summer (2019).
+We are releasing an email subscription service to be told about what your councillors expense. [Subscribe here]({{ site.mailing_list }}) to be told when we release this service this summer (2019).
 
 ## Details
 
