@@ -38,3 +38,10 @@ Proposed ideas:
 * Each participation in a workshop brings you closer to a full vote, increasing to 2/10, 4/10, 6/10, 8/10 and then finally on your fifth participation, a full vote (10/10).
 * Additional participations in workshops (after 5) have no effect
 * Having 10+ workshops for community members to attend
+
+
+"Most inner city neighbourhoods surrounding downtown have not experienced any meaningful revitalization due to lacking in-migration and the absence of targeted revitalization incentives. Winnipeg is comparable to a shiny apple that glistens on the outside but is being eaten by a worm on the inside. An emphasis on suburban developments at the expense of neighbourhood revitalization is a direct causal factor for declining inner city neighbourhoods."
+
+Winnipeg 2014: Towards Sustainability published by Manitoba Building Trades
+
+http://www.mbtrades.ca/wp-content/uploads/2015/09/MBT-Towards-Sustainability1.pdf?x76106
