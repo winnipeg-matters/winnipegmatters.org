@@ -3,8 +3,46 @@ layout: page
 title: The Tokarz Park Project Vision
 ---
 
-Below is the work-in-progress ideas behind the Tokarz Park Project, a neighborhood redevelopment vision encompassing Templeton Ave and Tokarz Park to create a vibrant, small-town look and feel neighborhood.
+Below are the _work-in-progress ideas_ behind the Tokarz Park Project, a neighborhood redevelopment vision encompassing Templeton Ave and Tokarz Park to create a vibrant, small-town look and feel neighborhood.
 
+Candidate names:
+
+* TAPR (taper) - Tokarz Are Park Revitalization
+* Cash CoW
+* TAIP (tape) - Tokarz Area Improvement Project
+* Tokarz Business Improvement Zone (TBIZ)
+* WIP (whip) - Winnipeg Improving Parks
+* The Next Peg
+* Next Peg
+* Tokarz Park Project (TPP)
+
+Candidate words:
+
+Park
+Win
+Winnipeg
+Peg
+Tokarz
+Revitalization
+Vitalization
+Business
+Experiment
+Foster, Fostering
+Incubator
+Woods
+Woodland
+Neighborhood
+Experiment
+Zone
+Area
+Greenspace
+Quiet
+Templeton
+Sinclair
+Templeton-Sinclair
+Templeclair
+Sinton
+Sintemple
 # Political Process and Timeline
 
 The political process for the TPP is unique to the Templeton-Sinclair neighborhood. Accounting for the known problems and failings of past projects in Winnipeg that make Winnipeg a more difficult place to live in is why the TPP political process is unique.
