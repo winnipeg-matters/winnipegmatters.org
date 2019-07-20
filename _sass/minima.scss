@@ -61,11 +61,40 @@ $on-large:         $on-laptop !default;
   background: rgb(244,234,81);
   background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 17%, rgba(244,234,81,1) 100%);
 
+  height: 210px;
+  overflow: hidden;
+
+  p {
+    position: absolute;
+    left: 100px;
+    margin-top: 50px;
+    font-size: 42px;
+    color: #4259A2;
+    strong {
+      font-family: "Lato Black";
+    }
+  }
+  p:nth-child(2) {
+    margin-top: 90px;
+    font-size: 22px;
+  }
+}
+
+* {
+  font-family: Lato;
+}
+
+body {
+  min-width: 500px;
 }
 
 
 .site-nav {
+  position: inherit;
   .page-link {
     text-transform: uppercase;
+    color: #4259A2;
+    font-weight: 800;
   }
 }
+
