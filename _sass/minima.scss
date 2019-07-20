@@ -84,10 +84,6 @@ $on-large:         $on-laptop !default;
   font-family: Lato;
 }
 
-body {
-  min-width: 500px;
-}
-
 
 .site-nav {
   position: inherit;
@@ -96,5 +92,12 @@ body {
     color: #4259A2;
     font-weight: 800;
   }
+  .page-link:last-child {
+    color: #FF3F3F;
+  }
+}
+
+body {
+  min-width: 500px;
 }
 

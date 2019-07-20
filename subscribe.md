@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_title: Follow us
 title: Subscribing to Winnipeg Matters
 permalink: /subscribe/
 ---
