@@ -70,9 +70,6 @@ $on-large:         $on-laptop !default;
     margin-top: 50px;
     font-size: 42px;
     color: #4259A2;
-    strong {
-      font-family: "Lato Black";
-    }
   }
   p:nth-child(2) {
     margin-top: 90px;
@@ -84,6 +81,16 @@ $on-large:         $on-laptop !default;
   font-family: Lato;
 }
 
+.site-header {
+  .separator {
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+    background-color: #4259a2;
+    background: linear-gradient(270deg, #4259a2, transparent);
+  }
+}
 
 .site-nav {
   position: inherit;

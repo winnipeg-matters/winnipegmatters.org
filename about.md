@@ -3,6 +3,7 @@ layout: page
 title: About
 nav_title: About us
 permalink: /about/
+nav_order: 5
 ---
 
 Winnipeg Matters is a evidence based group. We love to hear dissenting opinions backed up by evidence and we love to provide opinions backed up by evidence.
