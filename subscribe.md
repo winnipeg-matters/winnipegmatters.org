@@ -6,22 +6,42 @@ permalink: /subscribe/
 nav_order: 10
 ---
 
-Winnipeg Matters is a evidence based group. We love to hear dissenting opinions backed up by evidence and we love to provide opinions backed up by evidence. There's a few ways to subscribe and keep informed:
+Winnipeg Matters is a evidence based group. We love to hear dissenting opinions backed up by evidence and we love to provide opinions backed up by evidence. 
 
-* [Join our mailing list]({{ site.mailing_list }}) because it's awesome (we will keep your information private).
-* The [Winnipeg Matters Facebook Page](https://www.facebook.com/pg/Winnipeg-Matters-335540570415581)
-* <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Our Twitter</a></p>
+There are a few ways to subscribe and keep informed:
 
-Do you have feedback? Email us [{{ site.email }}](mailto:{{ site.email }}).
+
+## Mailing list
+
+[Join our email list]({{ site.mailing_list }}) to receive occasional emails about projects we create and new articles we write. Keeping up-to-date on ideas for Winnipeg has never been easier!
+
+We promise to **keep your information private** and to not share it with anyone.
+
+At the bottom of this page is an embedded sign-up form as well.
+
+
+## Social Media
+
+We participate in social media - it has the articles and projects we create **plus** we share relevant policies from other organizations such as [Strong Towns](https://strongtowns.org), [Planet Money](https://npr.org/planetmoney), [CityLab](https://CityLab.com), and various media outlets from North America.
+
+Follow our [Winnipeg Matters Facebook Page]({{ site.facebook_link}}) here to stay up-to-date on matters that affect your day-to-day life in Winnipeg.
+
+Our Twitter page is [@WpgMatters.]({{site.twitter_link}})
+
+## RSS
+
+We provide an <a href="{{ "/feed.xml" | relative_url }}">RSS link</a> for those who use RSS.
 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
+<!--	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. -->
+<!--	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */  -->
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
+
 <div id="mc_embed_signup">
 <form action="https://winnipegmatters.us20.list-manage.com/subscribe/post?u=61a624220213a79cf58b1d20a&amp;id=fb14084990" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
