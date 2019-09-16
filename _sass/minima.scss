@@ -83,7 +83,7 @@ $on-large:         $on-laptop !default;
 
 .site-header {
   .separator {
-    width: 740px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     height: 1px;
@@ -105,6 +105,8 @@ $on-large:         $on-laptop !default;
 }
 
 body {
-  min-width: 500px;
+  min-width: 460px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+}
