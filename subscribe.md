@@ -8,7 +8,7 @@ nav_order: 10
 
 Winnipeg Matters is a evidence based group. We love to hear dissenting opinions backed up by evidence and we love to provide opinions backed up by evidence. 
 
-There are a few ways to subscribe and keep informed:
+There are a few ways to stay informed, see below.
 
 
 ## Mailing list
