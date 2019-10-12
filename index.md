@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Winnipeg Matters brings actionable, demonstrable solutions to Wininpeg and Manitoba's problems. Expert driven opinions is the goal of most [projects](/projects) that Winnipeg Matters works on.
+Winnipeg Matters brings actionable, demonstratable solutions to Wininpeg and Manitoba's problems. Expert driven opinions is the goal of most [projects](/projects) that Winnipeg Matters works on.
 
 # What we do
 
