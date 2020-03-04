@@ -3,7 +3,7 @@ layout: page
 nav_title: Follow us
 title: Subscribing to Winnipeg Matters
 permalink: /subscribe/
-nav_order: 10
+nav_order: 4
 ---
 
 Winnipeg Matters is a evidence based group. We love to hear dissenting opinions backed up by evidence and we love to provide opinions backed up by evidence. 

@@ -33,6 +33,4 @@ Our first project that we want to explore is a laundry list of projects from a v
 
 We call it [*The List*](/the_list).
 
-[![The List Graphic](/assets/the_list_graphic.svg)](/the_list)
-
 We'll be updating it with new information soon. Follow us to keep up with the developments.

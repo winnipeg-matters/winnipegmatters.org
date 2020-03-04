@@ -3,6 +3,8 @@ layout: page
 title: Projects at Winnipeg Matters
 permalink: /the_list/
 categories: projects
+nav_title: The List
+nav_order: 3
 ---
 
 *The List*. Solutions to Winnipeg's permanent problems.
