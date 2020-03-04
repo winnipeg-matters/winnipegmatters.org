@@ -16,3 +16,15 @@ Two **core tenets** we're starting with:
 [Follow us](/subscribe) to stay up-to-date on matters that affect you as a Winnipegger or a Manitoban.
 
 Feedback? Want to talk to a real human being about issues in Winnipeg?  [Email us](mailto:{{ site.email }}).
+
+# "How can I help?"
+
+We are looking for:
+
+* Stories to cover
+* Ideas to apply to Manitoba and/or Winnipeg
+* Experts to weigh in on issue
+* Writers to write about issues
+* People to write FIPPA requests and to come up with ideas for FIPPA requests
+
+[Reach out and talk to us](mailto:{{ site.email }}), we'd love to talk to you.

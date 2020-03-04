@@ -7,7 +7,7 @@ Below are the _work-in-progress ideas_ behind the Tokarz Park Project, a neighbo
 
 Candidate names:
 
-* TAPR (taper) - Tokarz Are Park Revitalization
+* TAPR (taper) - Tokarz Area Park Revitalization
 * Cash CoW
 * TAIP (tape) - Tokarz Area Improvement Project
 * Tokarz Business Improvement Zone (TBIZ)
@@ -43,40 +43,22 @@ Templeton-Sinclair
 Templeclair
 Sinton
 Sintemple
-# Political Process and Timeline
 
-The political process for the TPP is unique to the Templeton-Sinclair neighborhood. Accounting for the known problems and failings of past projects in Winnipeg that make Winnipeg a more difficult place to live in is why the TPP political process is unique.
-
-The goals of the TPP political process are as follows:
+The goals we want to achieve for the TPP are:
 
 * Informed voting as a requirement
-* Non-superficial baseline understanding
+* Non-superficial understanding of issues
 * Evidence based decisions
 * Expert facilitated
-* Residents only (i.e., the community)
 * In person
 * Transparency every decision and piece of information available (auditable too!)
 * Strong, informed, trusted committees
 
 That's a lot of goals! Investing your time and mental energy into the TPP has to be as easy as possible while maintaining the highest level of information. To make significant changes, we must invest at a minimum our time. Thank you, thank you, _thank you_ for investing that time into your community, your future, and your children's future.
 
-Explaining each of the goals and how they're achieved is a long process for _anyone_ to understand. For example, the initial idea behind the TPP took over 2.5 hours to explain to one person and the TPP is a project on the order of 10-50 years, so don't feel discouraged if the information seems too dense. The in-person, kind, community-based discussions is another tool to help you make an informed vote while the website is the official, auditable, transparent record for the TPP.
+Explaining each of the goals and how they're achieved is a long process for _anyone_ to understand. For example, the initial idea behind the TPP took over 2.5 hours to explain to one person and the TPP is a project on the order of 10-50 years. Don't feel discouraged if the information seems too dense. The in-person, kind, community-based discussions is another tool to help you make an informed vote while the website is the official, auditable, transparent record for the TPP.
 
-This website provides the transparency and depth of information to those who want to delve into the deep details behind each idea. We want the people who are voting to truly understand the ramifications of approving the TPP, not approving the TPP, and the inaction of not voting at all on the TPP. Hours of your time over the course of the next 1-2 years is necessary and we thank you for it.
-
-Without further ado, let's outline the structure of the political process.
-
-## Political Processes
-
-Everyone by default will have a vote. Participation in the dozen plus in-person events makes your vote worth more. Structuring the TPP decision making process by incentivizing people to become informed and rewarding objectively informed voters over those who are objectively not informed is one of the foundations of the TPP.
-
-Proposed ideas:
-
-* Everyone starts with 1/10th of a vote
-* Each participation in a workshop brings you closer to a full vote, increasing to 2/10, 4/10, 6/10, 8/10 and then finally on your fifth participation, a full vote (10/10).
-* Additional participations in workshops (after 5) have no effect
-* Having 10+ workshops for community members to attend
-
+This website provides the transparency and depth of information to those who want to delve into the deep details behind each idea. We want the people who are voting to truly understand the ramifications of approving the TPP, not approving the TPP, and the inaction of not voting at all on the TPP.
 
 "Most inner city neighbourhoods surrounding downtown have not experienced any meaningful revitalization due to lacking in-migration and the absence of targeted revitalization incentives. Winnipeg is comparable to a shiny apple that glistens on the outside but is being eaten by a worm on the inside. An emphasis on suburban developments at the expense of neighbourhood revitalization is a direct causal factor for declining inner city neighbourhoods."
 
