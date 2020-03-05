@@ -19,11 +19,15 @@ We tell you about them and how to solve them on a local scale in Winnipeg and Ma
 
 # Why it's important
 
-Keeping the context and amount of information available to Winnipeggers and Manitobans is one of the goals of Winnipeg Matters.
+Providing context and enough information to Winnipeggers and Manitobans is one of the goals of Winnipeg Matters.
 
-Educating the general public about good policies is a lot of work and often the experts who have the ideas are disincentivized to talk about it due to the nature of their employment or the sheer amount of time and energy necessary to get the word out (i.e., climate change).
+Educating the general public about good policies is a lot of work and often the experts who have the ideas are disincentivized to talk about it. They face the loss of their careers if they were to fervently advocate for ideas presented by us.
 
-Complex policies that affect you and your family in a positive fashion is vital for the success of democracy and our families in Manitoba. We're here to guide you to those experts and experiments that objectively improve lives in Manitoba. Not enough people and organizations take the time to do that &mdash; we're here to fix that!
+Complex policies that affect you and your family in a positive fashion is vital for the success of democracy and our families in Manitoba.
+
+Nuance in our society is important and you deserve to understand fully that nuance when it comes to community-wide decisions and planning.
+
+We're here to guide you to those experts and experiments that objectively improve lives in Manitoba. Not enough people and organizations take the time to do that &mdash; we're here to fix that!
 
 If something doesn't make sense, [let us know]({{ site.email }})! We love talking to other Winnipeggers and we love being proven wrong.
 
