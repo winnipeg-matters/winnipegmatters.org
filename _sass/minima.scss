@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -77,27 +77,6 @@ $on-large:         $on-laptop !default;
   }
 }
 
-@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat|Ubuntu&display=swap');
-
-* {
-  font-family: Montserrat;
-}
-
-p {
-  font-family: Ubuntu;
-}
-
-.site-header {
-  .separator {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    height: 1px;
-    background-color: #4259a2;
-    background: linear-gradient(270deg, #4259a2, transparent);
-  }
-}
-
 .site-nav {
   position: inherit;
   .page-link {
@@ -157,7 +136,5 @@ a.label:hover {
   p {
     text-align: left;
   }
-  border-top: 1px solid $winnipeg-flag-blue;
-  border-bottom: 1px solid $winnipeg-flag-blue;
 }
 
