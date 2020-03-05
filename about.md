@@ -28,3 +28,5 @@ We are looking for:
 * People to write FIPPA requests and to come up with ideas for FIPPA requests
 
 [Reach out and talk to us](mailto:{{ site.email }}), we'd love to talk to you.
+
+We have a [Patreon](https://www.patreon.com/user?u=31449205&fan_landing=true) if you wish to show financial support.
