@@ -75,7 +75,13 @@ $on-large:         $on-laptop !default;
     margin-top: 90px;
     font-size: 22px;
   }
+  @media (max-width: 500px) {
+    p {
+      position: inherit;
+    }
+  }
 }
+
 
 .site-nav {
   position: inherit;
@@ -90,8 +96,10 @@ $on-large:         $on-laptop !default;
 }
 
 body {
-  min-width: 460px;
+  width: 100%;
 }
+
+body, html { overflow-x:hidden; }
 
 h1, h2, h3, h4, h5, h6 {
   color: $winnipeg-flag-blue;
