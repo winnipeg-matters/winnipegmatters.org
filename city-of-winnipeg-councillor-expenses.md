@@ -20,5 +20,3 @@ The City of Winnipeg (CoW) provides a website that hosts public data from CoW de
 * [And more!](https://data.winnipeg.ca)
 
 **Interested in more?** Winnipeg Matters is a community of Winnipeggers striving to make Winnipeg better and we need you. [Sign up for our email list]({{ site.mailing_list }}) and [reach out to us](mailto:{{ site.email }}) to start the conversation!
-
-We will be releasing a version this service in the summer of 2019.
