@@ -42,6 +42,6 @@ The actual implementation of a LVT for Winnipeg is complex and we need experts t
 
 The LVT would transform downtown over time. In terms of public policy for downtown development, this is a big one that can be very effective - no more free lunches for land owners with surface parking lots!
 
-The LVT This is a tax known as the 'perfect' tax &mdash; let's bring it to Winnipeg.
+The LVT This is a tax known as the ['perfect'](https://en.wikipedia.org/wiki/Land_value_tax) tax &mdash; let's bring it to Winnipeg.
 
 [Let us know if you want to learn more](/subscribe). Remember that for Winnipeg to explore LVT, we need everyday peoples' voices to be heard on policies that shape the future of Winnipeg.
