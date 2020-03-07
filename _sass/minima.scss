@@ -127,8 +127,8 @@ a.label:hover {
 	}
 }
 
-.aside-right {
-  float: right;
+.aside-right, .aside-left {
+  max-width: 350px;
   margin-left: 2em;
   margin-right: 2em;
   padding-top: 2em;
@@ -138,3 +138,10 @@ a.label:hover {
   }
 }
 
+.aside-left {
+  float: left;
+}
+
+.aside-right {
+  float: right;
+}
