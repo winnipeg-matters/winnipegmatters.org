@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Writing about LVT in 2020"
-date:   2019-03-02 12:11:51 -0600
+date:   2019-03-07 16:00:00 -0600
 categories: news
 ---
 
@@ -16,6 +16,8 @@ We see it again and again when we know that, for example, having railroads downt
 Continuously building the same bridges and underpasses over and over again is a dead end, yet here we are in 2020, some 50 years after Edmonton removed most of their rail lines that ran around the city, and members of the general public take extreme positions on the removal of the rail yards.
 
 In the same vein, we also are continuously not taxing and densifying Winnipeg in all the ways that we could. Changing a tax policy can be revenue neutral as well, so it's not about raising more revenue - it's about allowing for the incremental development of Winnipeg to succeed despite the fact that 90%+ of land that could be improved is privately held.
+
+LVT is [well over a hundred years old](https://en.wikipedia.org/wiki/Georgism). It's time.
 
 LVT should be on the tip of tongues at every level of government.
 
