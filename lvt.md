@@ -7,7 +7,7 @@ categories: projects
 
 [Strong Towns (4m YouTube)](https://www.youtube.com/watch?v=ok2uR3btMrE){:.label} - [Wikipedia](https://en.wikipedia.org/wiki/Land_value_tax){:.label}
 
-What is the Land Value Tax? The LVT (Land Value Tax) replaces property taxes. It sets the proeprty taxes for the land based solely on the land value and it chooses to ignore the buildings on it - for one very good reason: so we can tax unimproved land like vacant lots and parking lots at the same rate as neighbouring land that has buildings.
+What is the Land Value Tax? The LVT (Land Value Tax) replaces property taxes. It sets the property taxes for the land based solely on the land value and it chooses to ignore the buildings on it - for one very good reason: so we can tax unimproved land like vacant lots and parking lots at the same rate as neighbouring land that has buildings.
 
 A house and an adjacent parking lot would then be taxed the same, all things being equal. Raising taxes on underperforming land creates an incentive for the owners to improve the productivity of the land by constructing something there which has a higher rate of return for the owner than the parking lot.
 
@@ -27,8 +27,10 @@ South of Portage avenue downtown is a walking desert. Parking lots are intersper
 
 A parking lot does not go far enough in creating a space that people will enjoy and use. Buildings generally do.
 
-{:.aside-left}
-![Surface parking lots behind 374 Donald St., Winnipeg](/assets/images/374_donald_back_lots.jpg)
+<div class="aside-left">
+  <img src="/assets/images/374_donald_back_lots.jpg" alt="Surface parking lots behind 374 Donald St., Winnipeg">
+  <p>309 Cumberland and Calvary Temple parking lots. These massive parking lots haven't been improved in decades</p>
+</div>
 
 Imagine creating a new restaurant, bar, or coffee shop out of what was once 10 parking spots. We can do that. Now. In Winnipeg. It's real, all it takes is tweaking our proprerty taxes and allowing our experts to guide the design of our city.
 
