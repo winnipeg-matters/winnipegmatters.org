@@ -10,7 +10,7 @@ We provide an <a href="{{ "/feed.xml" | relative_url }}">RSS feed</a> for those 
 
 [Join our email list]({{ site.mailing_list }}) to receive occasional emails about projects we create and new articles we write. Keeping up-to-date on ideas for Winnipeg has never been easier!  We promise to **keep your information private** and to not share it with anyone.
 
-We participate in social media - it has the articles and projects we create **plus** we share relevant policies from other organizations such as [Strong Towns](https://strongtowns.org), [Planet Money](https://npr.org/planetmoney), [CityLab](https://CityLab.com), and various media outlets from North America.
+We participate in social media - it has the articles and projects we create **plus** we share relevant policies from other organizations such as [Strong Towns](https://strongtowns.org), [Planet Money](https://npr.org/planetmoney), [CityLab](https://CityLab.com) to name a few.
 
 Follow our [Winnipeg Matters Facebook Page]({{ site.facebook_link}}) here to stay up-to-date on matters that affect your day-to-day life in Winnipeg.
 
