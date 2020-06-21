@@ -22,6 +22,10 @@ $table-text-align: left !default;
 $winnipeg-flag-yellow: #F4EA51 !default;
 $winnipeg-flag-blue: #4259A2 !default;
 
+$site-primary-color-one: #2196f3;
+$site-primary-color-two: #FFF;
+$site-primary-color-three: #FFF;
+
 // Width of the content area
 $content-width:    800px !default;
 
@@ -58,8 +62,7 @@ $on-large:         $on-laptop !default;
 ;
 
 .esplanade_header {
-  background: rgb(244,234,81);
-  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 17%, rgba(244,234,81,1) 100%);
+  background: $site-primary-color-one;
 
   height: 210px;
   overflow: hidden;
@@ -69,7 +72,26 @@ $on-large:         $on-laptop !default;
     left: 100px;
     margin-top: 50px;
     font-size: 42px;
-    color: #4259A2;
+    color: $site-primary-color-three;
+    $color-a: #378ab4;
+    $color-b: #5dabcd;
+    text-shadow:
+    0 1px 0px $color-a,
+    1px 0 0px $color-b,
+    1px 2px 1px $color-a,
+    2px 1px 1px $color-b,
+    2px 3px 2px $color-a,
+    3px 2px 2px $color-b,
+    3px 4px 2px $color-a,
+    4px 3px 3px $color-b,
+    4px 5px 3px $color-a,
+    5px 4px 2px $color-b,
+    5px 6px 2px $color-a,
+    6px 5px 2px $color-b,
+    6px 7px 1px $color-a,
+    7px 6px 1px $color-b,
+    7px 8px 0px $color-a,
+    8px 7px 0px $color-b;
   }
   p:nth-child(2) {
     margin-top: 90px;
@@ -93,6 +115,7 @@ $on-large:         $on-laptop !default;
   .page-link:last-child {
     color: #FF3F3F;
   }
+  overflow-x: ellipsis;
 }
 
 body {
@@ -102,7 +125,7 @@ body {
 body, html { overflow-x:hidden; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $winnipeg-flag-blue;
+  color: $site-primary-color-two;
 }
 
 a.label {
@@ -137,10 +160,11 @@ a.label:hover {
 
 .aside-right, .aside-left {
   max-width: 350px;
-  margin-left: 2em;
-  margin-right: 2em;
-  padding-top: 2em;
+  padding: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
   text-align: center;
+  border-style: dashed solid;
   p {
     text-align: center;
     font-style: italic;
@@ -149,8 +173,15 @@ a.label:hover {
 
 .aside-left {
   float: left;
+  margin-right: 2em;
 }
 
 .aside-right {
   float: right;
+  border-style: dashed solid;
+  margin-left: 2em;
+}
+
+details {
+  cursor: pointer;
 }
