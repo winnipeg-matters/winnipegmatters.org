@@ -1,6 +1,9 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
+//
+
+@import "reboot";
 
 $base-font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji" !default;
 $base-font-size:   16px !default;
@@ -12,9 +15,9 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      #FFF !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #333 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 $orange-color:     #f66a0a !default;
@@ -60,6 +63,10 @@ $on-large:         $on-laptop !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+a:hover, a:focus, a:active, a:visited {
+  color: #FFF;
+}
 
 .esplanade_header {
   background: $site-primary-color-one;
@@ -107,6 +114,11 @@ $on-large:         $on-laptop !default;
 
 .site-nav {
   position: inherit;
+
+  a::after, a::before {
+    content: "  ";
+  }
+
   .page-link {
     text-transform: uppercase;
     color: #4259A2;

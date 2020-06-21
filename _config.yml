@@ -31,7 +31,6 @@ plugins:
   - jekyll-redirect-from
 
 header_pages:
-  - the_list.md
   - blog.html
   - about.md
   - city-of-winnipeg-councillor-expenses.md

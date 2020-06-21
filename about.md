@@ -11,16 +11,18 @@ Winnipeg Matters is a evidence based group. We love to hear dissenting opinions 
 Two **core tenets** we're starting with:
 
 1. We create easy and hard wins for Manitoba, Winnipeg and Canada from experts' advice
-2. Fixing unavoidable problems permanently benefits everyone in the long run. Winnipeg Matters keeps harping on those issues and maintains a record.
+2. Fixing unavoidable problems permanently benefits everyone in the long run. Winnipeg Matters tracks our issues for the benefit of everyone in Manitoba.
 
-[Follow us](/subscribe) to stay up-to-date on matters that affect you as a Winnipegger or a Manitoban.
+## I have Feedback you
 
-Feedback? Want to talk to a real human being about issues in Winnipeg?  [Email us](mailto:{{ site.email }}).
+Want to talk to a real human being about issues in Winnipeg?  [Email us](mailto:{{ site.email }}).
 
-# "How can I help?"
+## "How can I help?"
 
 We are looking for:
 
+
+* [Follow us](/subscribe) to stay up-to-date on matters that affect you as a Winnipegger or a Manitoban.
 * Stories to cover
 * Ideas to apply to Manitoba and/or Winnipeg
 * Experts to weigh in on issue
@@ -31,7 +33,7 @@ We are looking for:
 
 We have a [Patreon](https://www.patreon.com/user?u=31449205&fan_landing=true) if you wish to show financial support.
 
-# What we do
+## What we do
 
 We explore:
 
@@ -41,7 +43,7 @@ We explore:
 
 We tell you about them and how to solve them on a local scale in Winnipeg and Manitoba.
 
-# Why it's important
+## Why it's important
 
 Providing context and enough information to Winnipeggers and Manitobans is one of the goals of Winnipeg Matters.
 
