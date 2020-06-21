@@ -141,11 +141,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a.label {
-  background-color: #f0f0f0;
+  background-color: #FFF;
+  border: 1px solid rgba(1, 3, 5, 0%);
   text-decoration: none;
   border-radius: 13px;
   padding: 7px;
-  border: 1px solid rgba(1, 3, 5, 13%);
+
   font-weight: bold;
 }
 
@@ -154,18 +155,24 @@ a.label:hover {
   animation-iteration-count: 1
 }
 
+a.label-current {
+  animation: pulse-label 0s normal forwards;
+  animation-iteration-count: 1
+}
+
 @keyframes pulse-label {
 	0% {
-    background-color: #f0f0f0;
+    background-color: #1330a9;
 	}
 
 	50% {
-    background-color: #1756a9;
+    background-color: $site-primary-color-one;
     color: #FFF;
 	}
 
 	100% {
-    background-color: #1756a9;
+    border: 1px solid rgba(1, 3, 5, 23%);
+    background-color: $site-primary-color-one;
     color: #FFF;
 	}
 }
@@ -197,3 +204,14 @@ a.label:hover {
 details {
   cursor: pointer;
 }
+
+
+footer, footer a, footer .footer-heading {
+  color: #000;
+
+  a:hover, a:focus, a:active, a:visited {
+    color: #000;
+    text-decoration: underline;
+  }
+}
+
