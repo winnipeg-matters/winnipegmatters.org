@@ -24,7 +24,7 @@ A house on one lot and the parking lot next door would be taxed the same amount.
 This Strong Towns [YouTube video explaining LVT](https://www.youtube.com/watch?v=ok2uR3btMrE) is great - see the aside for the embeded YouTube video of it.
 
 {:.aside-right}
-<div style="max-width: 300px">
+<div style="max-width: 350px">
   <iframe width="280" height="160" src="https://www.youtube.com/embed/ok2uR3btMrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>
     <em>What is a Land Value Tax?</em>
