@@ -1,11 +1,21 @@
 ---
 layout: page
-title: Land Value Tax (Property tax replacement)
+title: Land leeches are killing Winnipeg. Here's the perfect tax on them.
 permalink: /lvt/
 categories: projects
 ---
 
-[Strong Towns (4m YouTube)](https://www.youtube.com/watch?v=ok2uR3btMrE){:.label} - [Wikipedia](https://en.wikipedia.org/wiki/Land_value_tax){:.label}
+<div class="aside-right">
+<details>
+  <summary>
+    Learn more about a Land Value Tax
+  </summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=ok2uR3btMrE">What is a Land Value Tax?</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Land_value_tax">Land Value Tax Wikipedia</a></li>
+  </ul>
+</details>
+</div>
 
 What is the Land Value Tax? The LVT (Land Value Tax) replaces property taxes. It sets the property taxes for the land based solely on the land value and it chooses to ignore the buildings on it - for one very good reason: so we can tax unimproved land like vacant lots and parking lots at the same rate as neighbouring land that has buildings.
 
@@ -17,7 +27,7 @@ This Strong Towns [YouTube video explaining LVT](https://www.youtube.com/watch?v
 <div style="max-width: 300px">
   <iframe width="280" height="160" src="https://www.youtube.com/embed/ok2uR3btMrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <p>
-    <em>4m video explaining LVT from Strong Towns</em>
+    <em>What is a Land Value Tax?</em>
   </p>
 </div>
 
