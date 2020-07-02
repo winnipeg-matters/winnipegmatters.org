@@ -71,21 +71,24 @@ a:hover, a:focus, a:active, a:visited {
 .esplanade_header {
   background: $site-primary-color-one;
 
-  height: 210px;
+  min-width: 320px;
+
+  height: 220px;
   overflow: hidden;
 
-  svg {
-    min-height: 350px;
+  @media (min-width: 420px) {
+    padding-top: 2em;
   }
 
+  background-image: url('/assets/images/Esplanade_Riel.svg');
+  background-repeat: no-repeat;
+  background-size: auto 320px;
+
   p {
-    position: absolute;
-    left: 100px;
-    margin-top: 50px;
     font-size: 42px;
     color: $site-primary-color-three;
     $color-a: #378ab4;
-    $color-b: #5dabcd;
+    $color-b: #5E8CDF;
     text-shadow:
     0 1px 0px $color-a,
     1px 0 0px $color-b,
@@ -105,16 +108,10 @@ a:hover, a:focus, a:active, a:visited {
     8px 7px 0px $color-b;
   }
   p:nth-child(2) {
-    margin-top: 90px;
     font-size: 22px;
   }
-  @media (max-width: 500px) {
-    p {
-      position: inherit;
-    }
-  }
-}
 
+}
 
 .site-nav {
   position: inherit;
