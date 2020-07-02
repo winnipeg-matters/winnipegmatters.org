@@ -74,6 +74,10 @@ a:hover, a:focus, a:active, a:visited {
   height: 210px;
   overflow: hidden;
 
+  svg {
+    min-height: 350px;
+  }
+
   p {
     position: absolute;
     left: 100px;
